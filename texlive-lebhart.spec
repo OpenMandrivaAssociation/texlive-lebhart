@@ -1,5 +1,5 @@
 Name:		texlive-lebhart
-Version:	68376
+Version:	70050
 Release:	1
 Summary:	Write your articles in a colorful way
 Group:		Publishing
